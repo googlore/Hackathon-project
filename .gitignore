@@ -226,3 +226,6 @@ playwright-report/
 test-results/
 .env.local
 
+# Imported contribution archive; its source is tracked instead.
+/Hackathon-project.zip
+
