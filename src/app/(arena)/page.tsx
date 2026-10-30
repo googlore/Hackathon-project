@@ -1,5 +1,5 @@
-import { ArenaShell } from "@/components/arena-shell";
+import { ArenaApp } from "@/components/arena-app";
 
 export default function Home() {
-  return <ArenaShell />;
+  return <ArenaApp />;
 }
